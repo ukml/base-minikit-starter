@@ -32,8 +32,7 @@ export default function Home() {
   };
 
   return (
-  
-  <main className="flex min-h-screen flex-col items-center justify-center p-8 bg-gradient-to-b from-blue-50 to-white text-center">
+    <main className="flex min-h-screen flex-col items-center justify-center p-8 bg-gradient-to-b from-blue-50 to-white text-center">
     <h1 className="text-4xl md:text-6xl font-bold text-blue-900 mb-8">
       Base Gratitude Hub 🚀
     </h1>
