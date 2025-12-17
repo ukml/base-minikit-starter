@@ -1,5 +1,6 @@
 export const dynamic = 'force-dynamic';
 export const dynamic = 'force-dynamic';
+export const dynamic = 'force-dynamic';
 import { sendFrameNotification } from "@/lib/notification-client";
 import { NextResponse } from "next/server";
 
